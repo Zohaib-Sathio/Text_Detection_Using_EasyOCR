@@ -1,0 +1,32 @@
+
+Detected Text of demo1.png 
+Text: Extract text, Confidence: 0.9983369927779235
+Text: from imagel, Confidence: 0.9512234812530579
+
+
+Detected Text of demo4.jpeg 
+Text: When you get, Confidence: 0.8223656160731289
+Text: tired, learn to rest,, Confidence: 0.5260104712707506
+Text: not, Confidence: 0.9998346829428394
+Text: quit:, Confidence: 0.9658961090043563
+Text: BANKSY, Confidence: 0.9955808357418297
+
+Detected Text of demo.jpeg 
+Text: (STOp), Confidence: 0.7470465476702053
+
+Detected Text of demo3.jpeg 
+Text: It was the best of, Confidence: 0.6836380450649241
+Text: times, it was the worst, Confidence: 0.5303393390787106
+Text: of times, it was the age, Confidence: 0.6259635986414347
+Text: of wisdom; it was the, Confidence: 0.8427592948740406
+Text: age of foolishness., Confidence: 0.8885587545812939
+
+Detected Text of demo2.jpeg 
+Text: E 2 St, Confidence: 0.6389761330911139
+Text: Ramone, Confidence: 0.9954363631503642
+Text: Place, Confidence: 0.9682174963101846
+Text: ONE, Confidence: 0.9982733676552732
+Text: WAY, Confidence: 0.999228368218121
+Text: OBSCUR, Confidence: 0.9179302972206119
+Text: No PArking, Confidence: 0.3264490768012101
+Text: Joey, Confidence: 0.9998418688774109
